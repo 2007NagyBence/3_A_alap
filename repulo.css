@@ -19,3 +19,10 @@ h1{
  h2 {
     margin-top: 30px;
  }
+
+ .kepfelirat {
+    text-align: center;
+    font-size: 10px;
+    color: #444;
+    margin-top: 12px;
+ }
