@@ -4,9 +4,18 @@
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(41,97,108,0) 66%);
 }
 
-h1
-{
+h1{
     padding: 30px;
     text-transform: uppercase;
     text-shadow: 2px 2px 4px black;
+    color: white;
+    font-size: 60px;
 }
+
+ #dolt {
+    font-style: italic;
+ }
+
+ h2 {
+    margin-top: 30px;
+ }
